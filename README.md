@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I am Bashar
 
-<!--
-**bashar9111/bashar9111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student building practical projects and documenting what I learn.
 
-Here are some ideas to get you started:
+## What I am learning
+- C# and ASP.NET Web Forms
+- PHP, HTML, CSS and JavaScript
+- SQL and database fundamentals
+- Networking and Cisco Packet Tracer
+- C++ fundamentals and data structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+### [ShoeStore Demo](https://github.com/bashar9111/shoestore-demo)
+A restored university web application with registration, a shopping cart, demo checkout and account-specific order history. Built with C# / ASP.NET Web Forms, with a refreshed interface and AI-generated concept-product images.
+
+[View the source and setup guide](https://github.com/bashar9111/shoestore-demo)
+
+## My approach
+I use university projects to practise development, troubleshoot problems and improve documentation. Recovered projects are labelled honestly, including missing components and what was changed during restoration.
+
+More cleaned and documented projects are being added to this portfolio.
